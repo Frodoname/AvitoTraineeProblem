@@ -1,8 +1,6 @@
 ## Тестовое задание на позицию стажера для Avito
 
-<a href="https://ibb.co/wzGVJTH"><img src="https://i.ibb.co/W28ZDQ9/screen1.png" alt="screen1" border="0"></a>
-<a href="https://ibb.co/Jmj8rwC"><img src="https://i.ibb.co/q7Yhm3x/screen2.png" alt="screen2" border="0"></a>
-<a href="https://ibb.co/9ySJnVr"><img src="https://i.ibb.co/c2VPJCr/screen3.png" alt="screen3" border="0"></a>
+<a href="https://ibb.co/wzGVJTH"><img src="https://i.ibb.co/wzGVJTH/screen1.png" alt="screen1" border="0"></a> <a href="https://ibb.co/Jmj8rwC"><img src="https://i.ibb.co/Jmj8rwC/screen2.png" alt="screen2" border="0"></a> <a href="https://ibb.co/9ySJnVr"><img src="https://i.ibb.co/9ySJnVr/screen3.png" alt="screen3" border="0"></a>
 
 ### Требование к реализации:
 - Приложение работает на iOS 13 и выше
