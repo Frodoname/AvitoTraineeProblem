@@ -1,6 +1,6 @@
 ## Тестовое задание на позицию стажера для Avito
 
-![screen3](https://user-images.githubusercontent.com/104575755/199554763-6dea3744-7ace-4b81-904d-dd9517253455.png)
+![screen3](https://user-images.githubusercontent.com/104575755/199554763-6dea3744-7ace-4b81-904d-dd9517253455.png=250)
 ![screen1](https://user-images.githubusercontent.com/104575755/199554675-b1edefee-98da-4b4d-bc86-9bed57a64bc1.png)
 ![screen2](https://user-images.githubusercontent.com/104575755/199554740-280e3b59-9662-4fa8-afbb-c207935de8ff.png)
 
